@@ -6,6 +6,8 @@ Amazon Virtual Private Cloud (Amazon VPC) enables the provisioning of a logicall
 
 The primary goal was to construct a VPC and necessary network components essential for deploying resources like an Amazon EC2 instance.
 
+<img width="730" alt="architecture" src="https://github.com/Mohamed-kittany/Canvas-Lab-180/assets/161580792/adcc91fb-e2fc-4947-bb1c-da8558e5b00f">
+
 ## Objectives
 
 Participants were tasked with achieving the following by the conclusion of the lab:
